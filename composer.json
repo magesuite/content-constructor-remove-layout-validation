@@ -1,0 +1,12 @@
+{
+    "name": "creativestyle/magesuite-content-constructor-remove-layout-validation",
+    "description": "Extension removes custom layout update validation introduced in Magento 2.3.4",
+    "homepage": "https://creativestyle.de",
+    "license": "OSL-3.0",
+    "autoload": {
+        "files": [ "registration.php" ],
+        "psr-4": {
+            "MageSuite\\ContentConstructorRemoveLayoutValidation\\": ""
+        }
+    }
+}
